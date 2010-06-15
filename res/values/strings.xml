@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">TTSTest</string>
+<string name="headerText">Enter text here:</string>
+<string name="eng">English</string>
+<string name="fre">French</string>
+<string name="ger">German</string>
+<string name="ita">Italian</string>
+</resources>
